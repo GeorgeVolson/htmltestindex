@@ -29,10 +29,9 @@ width: 500px;
 box-shadow: 1.5px 1.5px 1.5px #888888;
 }
 #list2 li{
-	
 	list-style-type: none;
 }
-#list2 li:hover{
+list2 li:hover{
 	height: 70px;
 	width: 200px;
 	box-shadow: 1.5px 1.5px 1.5px 1.5px #888888;
